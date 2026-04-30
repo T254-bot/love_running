@@ -29,6 +29,23 @@ h2 {
     justify-content: flex-end;
 }
 
+#logo, #menu {
+    line-height: 75px;
+}
+
 #menu li {
     margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+}
+
+#menu a.active {
+    text-decoration: underline;
 }
