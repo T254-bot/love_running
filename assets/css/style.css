@@ -117,7 +117,6 @@ h2 {
 }
 
 .right-about-heading {
-    width: 50%;
     float: left;
     line-height: 20px;
     clear: both;
@@ -137,7 +136,7 @@ hr {
 }
 
 .left-about-heading {
-    width: 50%;
+    width: 55%;
     float: right;
     line-height: 20px;
     clear: both;
@@ -150,4 +149,26 @@ hr {
 
 .right-about-heading p {
     text-align: right;
+}
+
+#welcome {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 280%;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border: 1px solid #cccccc;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url(http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+
 }
