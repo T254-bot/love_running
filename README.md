@@ -1,1 +1,1 @@
-
+This has been a code along project as part of my coursework with Code Institute. As such I do not think it appropriate to create a full readme file, as this would be misleading. In my future projects I will include a readme file with clear notation as to what is my own work and what I have copied from the coursework.
